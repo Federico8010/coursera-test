@@ -1,34 +1,35 @@
-    *{
-	box-sizing: border-box;
-
-     }
+    h2{
+text-align: center;
 
 
-	h2{
-	text-align: center;
-     }
-	
+
+}
+h1{
+text-align:center;
+}
 
 
-   h1{
-	text-align:center;
-	
 
-    }
-
-   .visible-xs{
-   	font-size: 25px;
-	text-align: center;
-  }
+*{
+box-sizing: border-box;
 
 
-  #testo {
-	background-color: #696969;
-	width:100%;
-	border:1px solid black;
-	position:relative;
-	margin-top:2%;
 
-    }
+}
 
+
+
+#lead{
+background-color: grey;
+width:100%;
+border:1px solid black;
+position:relative;
+margin-top:2%;
+}
+
+
+
+.visible-xs{
+text-align: center;
+}
   
